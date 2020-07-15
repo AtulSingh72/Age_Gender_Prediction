@@ -49,4 +49,5 @@ Below shown is the Confusion matrix of Age Prediction
 |**(50-59)**|20|3|2|69|37|190|**787**|5|1|
 |**(60-69)**|6|2|2|15|10|38|347|**70**|11|
 |**(70+)**|12|0|1|4|2|9|110|19|**35**|
+
 The Accuracy achieved in Age Prediction is `53.96%`(exact) and `86.72%`(1-off).
